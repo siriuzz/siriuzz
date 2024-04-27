@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+#### I'm a student at Instituto Tecnológico de Santo Domingo and I'm currently working on getting my software engineering degree.
+How to reach me:
+
+[![linkedin-logo](https://github.com/siriuzz/siriuzz/assets/88642877/2b76f9d2-10b9-49bf-962c-bec0328a375e)
+](www.linkedin.com/in/elianse) 
+
+
 
 <!--
 **siriuzz/siriuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
