@@ -3,7 +3,7 @@
 How to reach me:
 
 [![linkedin-logo](https://github.com/siriuzz/siriuzz/assets/88642877/2b76f9d2-10b9-49bf-962c-bec0328a375e)
-](www.linkedin.com/in/elianse) 
+](https://www.linkedin.com/in/elianse) 
 
 
 
