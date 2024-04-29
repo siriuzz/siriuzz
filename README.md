@@ -5,7 +5,7 @@ How to reach me:
 [![linkedin-logo](https://github.com/siriuzz/siriuzz/assets/88642877/2b76f9d2-10b9-49bf-962c-bec0328a375e)
 ](https://www.linkedin.com/in/elianse) 
 
-[**Link to my portfolio**](https://siriuzz.github.io)
+[**Check out my portfolio**](https://siriuzz.github.io)
 
 <!--
 **siriuzz/siriuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
